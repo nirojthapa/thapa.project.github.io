@@ -1,0 +1,33 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 15px;
+  background-color: grey;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  border-radius: 11px;
+  padding: 7px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#caption1 {
+  text-align: center;
+}
+
+.aboutme {
+  font-style: italic;
+}
